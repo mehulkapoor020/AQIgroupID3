@@ -1,4 +1,4 @@
-Readme file for this AQI Data Maining Project
+AQI Data Maining Project
 Team members: Mehul And Abhishek
 
 The Air Quality Monitoring Data, which offers a helpful insight into the air we breathe, is accessible through the data.act.gov.au platform. This programme demonstrates the value of using data to inform decision-making while addressing environmental problems and fostering healthier communities.
