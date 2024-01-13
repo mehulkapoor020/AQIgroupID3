@@ -3,7 +3,7 @@ Team members: Mehul And Abhishek
 
 The Air Quality Monitoring Data, which offers a helpful insight into the air we breathe, is accessible through the data.act.gov.au platform. This programme demonstrates the value of using data to inform decision-making while addressing environmental problems and fostering healthier communities.
 
-Original Data source: https://www.data.act.gov.au/Environment/Air-Quality-Monitoring-Data/94a5-zqnn![image](https://github.com/mehulkapoor020/AQIgroupID3/assets/144635746/7a0d2db6-780b-47bb-8e89-ed41ff63d6ca)
+Original Data source: https://www.data.act.gov.au/Environment/Air-Quality-Monitoring-Data/94a5-zqnn
 
 
 Data preprocessing:
