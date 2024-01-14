@@ -2,6 +2,8 @@
 
 **Team members:** Mehul And Abhishek
 
+**Code:** [Data Mining Python Code](Random_forest_SVR_And_LSTM_AQIDataMining.ipynb)
+
 **Project Report:** [Project Report](AQI_Report_MehulKapoor.pdf)
 
 The Air Quality Monitoring Data, which offers a helpful insight into the air we breathe, is accessible through the [data.act.gov.au](https://www.data.act.gov.au/Environment/Air-Quality-Monitoring-Data/94a5-zqnn) platform. This programme demonstrates the value of using data to inform decision-making while addressing environmental problems and fostering healthier communities.
