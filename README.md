@@ -11,6 +11,7 @@ The Air Quality Monitoring Data, which offers a helpful insight into the air we 
 The Air Quality Index (AQI) is a vital indicator of environmental health, reflecting air pollution levels and their impact on public health. Accurate AQI evaluation/prediction is essential for mitigating health risks and formulating environmental policies, especially in urban areas like the City of Monash, New Zealand. This project employs four machine learning models – Random Forest, Support Vector Machine (SVM), an ensemble of Random Forest and SVM, and a Long Short-Term Memory (LSTM) model – to forecast AQI accurately. These models were chosen for their diverse strengths in handling complex environmental data. Our study reveals that the Random Forest model outperforms the others in evaluating AQI with higher accuracy and reliability. It efficiently captures the intricate relationships between pollutants and atmospheric conditions, making it a robust tool for air quality evaluation. The insights gained from this study are crucial for public health advisories and urban environmental management, demonstrating the potential of machine learning in tackling environmental challenges.
 
 **Original Data source:** [Air Quality Monitoring Data](https://www.data.act.gov.au/Environment/Air-Quality-Monitoring-Data/94a5-zqnn)
+
 **Cleaned Data:** [Cleaned Air Quality Monitoring Data](Cleaned_AQI_Data.csv)
 
 ## Data Preprocessing
